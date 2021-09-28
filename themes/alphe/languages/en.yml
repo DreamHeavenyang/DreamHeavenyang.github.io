@@ -4,9 +4,8 @@ comment: Comments
 archive_a: Archives
 archive_b: "Archives: %s"
 about: About
-recent_posts: "最新文章"
+recent_posts: "Recent Posts"
 categories: "Categories"
 default_post_title: "Untitled"
 category: Categories
 tag: Tags
-read_more: 阅读更多

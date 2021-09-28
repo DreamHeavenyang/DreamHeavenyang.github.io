@@ -1,12 +1,11 @@
 prev: Older Posts
 next: Newer Posts
-comment: 留言
-archive_a: 归档
-archive_b: "归档: %s"
-about: 关于
-recent_posts: "最新文章"
-categories: "类别"
-default_post_title: "无标题"
-category: 类别
-tag: 标签
-read_more: 阅读更多
+comment: Comments
+archive_a: Archives
+archive_b: "Archives: %s"
+about: About
+recent_posts: "Recent Posts"
+categories: "Categories"
+default_post_title: "Untitled"
+category: Category
+tag: Tag
